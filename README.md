@@ -1,7 +1,7 @@
-# Intro-to-Computer-Science-I
-## 📌 Overview
+**# Intro-to-Computer-Science-I
+##Overview
 This repository contains the programming projects I completed during my **Computer Science I (COSC 236)** course at **Towson University**.  
-The projects demonstrate my understanding of **fundamental programming concepts in Java**, including:
+The projects demonstrate my understanding of fundamental coding projects in Java including:
 
 - Basic syntax and control structures  
 - Methods and parameter passing  
